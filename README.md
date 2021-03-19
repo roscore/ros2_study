@@ -1,2 +1,2 @@
 # ros2_study
-for ros distro == foxy
+ - for ros distro == foxy
